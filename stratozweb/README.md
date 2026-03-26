@@ -85,7 +85,7 @@
 | `business.html#subsidy` | 助成金サポート |
 | `cases.html` | 解決事例一覧 |
 | `price.html` | 費用一覧 |
-| `price.html#retainer` | 顧問料金表 |
+| `price.html#advisor-fee` | 顧問料金表 |
 | `about.html` | 事務所紹介 |
 | `qa.html` | Q&A |
 | `column/index.html` | コラム一覧（カテゴリフィルター・検索） |
